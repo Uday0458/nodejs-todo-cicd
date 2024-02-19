@@ -47,7 +47,7 @@ Enter a name for your job (e.g., Node Todo App) and select **Freestyle project**
 
 On the configuration page, you can add some descriptions for your job if you want.
 
-Under **Source Code Management**, select **Git** and enter the repository URL: [https://github.com/devopscloudlabs/node-todo-cicd.git]. You can leave the other fields as default.
+Under **Source Code Management**, select **Git** and enter the repository URL: [https://github.com/devopscloudlabs/nodejs-todo-cicd.git]. You can leave the other fields as default.
 
 Under **Build Triggers**, select **GitHub hook trigger for GITScm polling**. This will enable the job to be triggered by GitHub webhooks.
 
